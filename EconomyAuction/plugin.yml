@@ -21,7 +21,6 @@ api:
 - 3.0.0-ALPHA15
 
 author: onebone
-depend: [EconomyAPI]
 
 commands:
  auction:
